@@ -1,0 +1,6 @@
+add "{'Footprint': '1206', 'Description': 'RES,50OHM,1/4W,1%,SMD', 'PartID': 'R4700', 'Quantity': 5}"
+add "{'PartID': 'R00', 'Footprint': '16', 'Quantity': 878, 'Description': 'CONVERTER\ DC/DC\ 5V\ OUT\ 1W'}"
+remove Footprint=1206
+remove Footprint=120
+remove PartID=T48979
+remove PartID=T4897
